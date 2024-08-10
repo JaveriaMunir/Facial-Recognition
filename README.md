@@ -1,2 +1,2 @@
 # Facial Recognition
- Facial recognition using DeepFace in real-time  
+ Real-time Facial recognition using DeepFace
