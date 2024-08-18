@@ -1,5 +1,5 @@
 # Facial Recognition
- Real-time Facial and emotion recognition
+ Real-time Facial and expression recognition
            
            
            facial_recog_emotions.py uses DeepFace.
